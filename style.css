@@ -12,36 +12,36 @@
 }
 
 body {
-    background-image: url(/6.jpg);
+    background-image: url(6.jpg);
 }
 
 .uno {
 
-    background: url(/1.png) no-repeat;
+    background: url(1.png) no-repeat;
     background-position: center center;
 
 }
 
 .dos {
-    background: url(/2.webp)no-repeat;
+    background: url(2.webp)no-repeat;
     background-position: center center;
 
 }
 
 .tres {
-    background: url(/3.jpg)no-repeat;
+    background: url(3.jpg)no-repeat;
     background-position: center center;
 
 }
 
 .cuatro {
-    background: url(/4.jpg)no-repeat;
+    background: url(4.jpg)no-repeat;
     background-position: center center;
 
 }
 
 .cinco {
-    background: url(/5.jpg)no-repeat;
+    background: url(5.jpg)no-repeat;
     background-position: center center;
 
 }
